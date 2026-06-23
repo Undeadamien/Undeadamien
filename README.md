@@ -1,9 +1,9 @@
-# Hi there
+# Hi there 👋
 
 Backend developer and open-source contributor at 42 Paris.  
 I work mainly with Python and C++, occasionally using TypeScript, building backend systems with FastAPI.
 
-## Tech stack
+## 🛠️ Tech stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
@@ -18,8 +18,8 @@ I work mainly with Python and C++, occasionally using TypeScript, building backe
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim)
 
-## Hobbies
+## 🎨 Hobbies
 Linux ricing • Drawing • Video games • Open source
 
-## Contact
+## 📩 Contact
 Open to internships, CDI opportunities, and collaborations.
