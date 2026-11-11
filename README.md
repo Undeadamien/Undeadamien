@@ -1,6 +1,6 @@
 # Damien Trala
 
-I build backend services in Python — FastAPI, PostgreSQL, Redis — and C/C++ tools when a
+I build backend services in Python (FastAPI, PostgreSQL, Redis) and C/C++ tools when a
 project needs to be closer to the system. I finished 42 Paris in September 2026 and I'm
 based in Paris.
 
@@ -8,19 +8,19 @@ I'm looking for a junior software role, or an immersion to see how a team works 
 
 ## Selected work
 
-- [RefVault](https://github.com/Undeadamien/refvault) — an image vault API in FastAPI/PostgreSQL:
+- [RefVault](https://github.com/Undeadamien/refvault) is an image vault API in FastAPI/PostgreSQL:
   JWT auth, tags, uploads, and a [live demo](https://refvault.fly.dev).
-- [webserv](https://github.com/Undeadamien/webserv) — an HTTP server written from scratch in
+- [webserv](https://github.com/Undeadamien/webserv) is an HTTP server written from scratch in
   C++98, with epoll, CGI and file uploads.
-- [minishell](https://github.com/Undeadamien/minishell) — a Unix shell in C: pipes,
+- [minishell](https://github.com/Undeadamien/minishell) is a Unix shell in C: pipes,
   redirections, built-ins.
-- [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) — a real-time Pong
+- [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) is a real-time Pong
   platform in TypeScript with WebSockets.
 
 ## Open source
 
-I contribute to [Hyprland](https://github.com/hyprwm/Hyprland), the Wayland compositor — C++
-work on rendering and configuration.
+I contribute to [Hyprland](https://github.com/hyprwm/Hyprland), the Wayland compositor. Mostly
+C++ work on rendering and configuration.
 
 ## Contact
 
