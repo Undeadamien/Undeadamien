@@ -1,24 +1,26 @@
 # Damien Trala
 
-**Backend Python & C++ systems** · 42 Paris (Sep 2026) · Paris
+I build backend services in Python — FastAPI, PostgreSQL, Redis — and C/C++ tools when a
+project needs to be closer to the system. I finished 42 Paris in September 2026 and I'm
+based in Paris.
 
-I build backend services and low-level tooling: Python/FastAPI APIs with PostgreSQL, and
-C/C++ close to the system. Open to a junior software role or a professional immersion.
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+I'm looking for a junior software role, or an immersion to see how a team works day to day.
 
 ## Selected work
 
-[RefVault](https://github.com/Undeadamien/refvault) (FastAPI, PostgreSQL, Redis, [live](https://refvault.fly.dev)) · [webserv](https://github.com/Undeadamien/webserv) (C++98 HTTP server) · [minishell](https://github.com/Undeadamien/minishell) (Unix shell in C) · [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) (TypeScript, WebSockets)
+- [RefVault](https://github.com/Undeadamien/refvault) — an image vault API in FastAPI/PostgreSQL:
+  JWT auth, tags, uploads, and a [live demo](https://refvault.fly.dev).
+- [webserv](https://github.com/Undeadamien/webserv) — an HTTP server written from scratch in
+  C++98, with epoll, CGI and file uploads.
+- [minishell](https://github.com/Undeadamien/minishell) — a Unix shell in C: pipes,
+  redirections, built-ins.
+- [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) — a real-time Pong
+  platform in TypeScript with WebSockets.
 
 ## Open source
 
-Contributor to [Hyprland](https://github.com/hyprwm/Hyprland) (C++ / Wayland compositor).
+I contribute to [Hyprland](https://github.com/hyprwm/Hyprland), the Wayland compositor — C++
+work on rendering and configuration.
 
 ## Contact
 
