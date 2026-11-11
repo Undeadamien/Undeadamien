@@ -14,6 +14,6 @@ C/C++ close to the system. Open to a junior software role or a professional imme
 
 **Selected work** — [RefVault](https://github.com/Undeadamien/refvault) (FastAPI, PostgreSQL, Redis, [live](https://refvault.fly.dev)) · [webserv](https://github.com/Undeadamien/webserv) (C++98 HTTP server) · [minishell](https://github.com/Undeadamien/minishell) (Unix shell in C) · [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) (TypeScript, WebSockets)
 
-**Open source** — 5 merged PRs in [Hyprland](https://github.com/hyprwm/Hyprland): shadow gradient animation, gradient glow, tablet input toggle.
+**Open source** — contributor to [Hyprland](https://github.com/hyprwm/Hyprland) (C++ / Wayland compositor).
 
 **Contact** — [damien.trala@outlook.com](mailto:damien.trala@outlook.com)
