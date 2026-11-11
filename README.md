@@ -12,8 +12,14 @@ C/C++ close to the system. Open to a junior software role or a professional imme
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
-**Selected work** — [RefVault](https://github.com/Undeadamien/refvault) (FastAPI, PostgreSQL, Redis, [live](https://refvault.fly.dev)) · [webserv](https://github.com/Undeadamien/webserv) (C++98 HTTP server) · [minishell](https://github.com/Undeadamien/minishell) (Unix shell in C) · [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) (TypeScript, WebSockets)
+## Selected work
 
-**Open source** — contributor to [Hyprland](https://github.com/hyprwm/Hyprland) (C++ / Wayland compositor).
+[RefVault](https://github.com/Undeadamien/refvault) (FastAPI, PostgreSQL, Redis, [live](https://refvault.fly.dev)) · [webserv](https://github.com/Undeadamien/webserv) (C++98 HTTP server) · [minishell](https://github.com/Undeadamien/minishell) (Unix shell in C) · [ft_transcendence](https://github.com/Undeadamien/ft_transcendence) (TypeScript, WebSockets)
 
-**Contact** — [damien.trala@outlook.com](mailto:damien.trala@outlook.com)
+## Open source
+
+Contributor to [Hyprland](https://github.com/hyprwm/Hyprland) (C++ / Wayland compositor).
+
+## Contact
+
+[damien.trala@outlook.com](mailto:damien.trala@outlook.com)
