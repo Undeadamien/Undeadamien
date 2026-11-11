@@ -21,7 +21,7 @@ Right now I'm building [a small terminal game](https://github.com/Undeadamien/ru
 ## Open source
 
 I contribute to [Hyprland](https://github.com/hyprwm/Hyprland), the Wayland compositor. Mostly
-C++ work on rendering and configuration.
+C++ work on rendering and configuration ([commits](https://github.com/hyprwm/Hyprland/commits/main/?author=Undeadamien)).
 
 ## Contact
 
