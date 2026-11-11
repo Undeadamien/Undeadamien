@@ -2,9 +2,10 @@
 
 I build backend services in Python (FastAPI, PostgreSQL, Redis) and C/C++ tools when a
 project needs to be closer to the system. I finished 42 Paris in September 2026 and I'm
-based in Paris.
+based in Le Raincy, near Paris.
 
 I'm looking for a junior software role, or an immersion to see how a team works day to day.
+Right now I'm building [a small terminal game](https://github.com/Undeadamien/rust_game) in Rust with Ratatui.
 
 ## Selected work
 
